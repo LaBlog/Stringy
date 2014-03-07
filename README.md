@@ -32,7 +32,7 @@ Laravel & LaBlog Usage
 
 To use the stringy filters with Laravel 4 and LaBlog, just add the service provider to your `app/config/app.php` providers list.
 
-*Note: The provider must be added **after** the Laravel 4 Twig Bridge provider.*
+*Note: The provider must be added _after_ the Laravel 4 Twig Bridge provider.*
 *Note2: If you have LaBlog up and running, you will have already added the Twig Bridge provider.*
 
 ```php
